@@ -1,0 +1,6 @@
+name: P2PPlugin
+version: '1.0'
+main: org.bell.P2PPlugin
+description: P2P test plugin
+author: Lax
+api-version: '1.19'

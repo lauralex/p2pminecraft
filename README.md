@@ -12,7 +12,7 @@ Only one host can be active at a time. When there is no active host, the user ca
 can connect to it.
 
 ### Client side (FabricMC mod logic)
-Go to the ... repo
+Go to the following repo: https://github.com/lauralex/p2pmcclient
 
 ### P2P backend service (FastAPI server logic)
-Go to the ... repo
+Go to the following repo: https://github.com/lauralex/p2pmctracker
